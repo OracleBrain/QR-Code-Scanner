@@ -41,13 +41,6 @@ This user-friendly QR Code Scanner app, helps you quickly scan and decode QR cod
 * Point the camera at a valid QR code containing a website URL.
 * The app will automatically detect and decode the code, opening the linked webpage in your default browser.
 
-**Contributing**
-
-We welcome contributions to make this app even better! Feel free to submit pull requests for bug fixes or new features, such as:
-
-* Support for different QR code formats (e.g., email addresses, contact information)
-* Improved user interface elements
-
 **License**
 
 This project is licensed under the MIT License.
